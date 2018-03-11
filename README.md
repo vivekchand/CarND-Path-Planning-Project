@@ -17,9 +17,7 @@ The project has the following dependencies (from Udacity's seed project):
 - libuv 1.12.0
 - Udacity's simulator.
 
-For instructions on how to install these components on different operating systems, please, visit [Udacity's seed project](https://github.com/udacity/CarND-Path-Planning-Project). As this particular implementation was done on Mac OS, the rest of this documentation will be focused on Mac OS. I am sorry to be that restrictive.
-
-In order to install the necessary libraries, use the [install-mac.sh](./install-mac.sh).
+For instructions on how to install these components on different operating systems, please, visit [Udacity's seed project](https://github.com/udacity/CarND-Path-Planning-Project). 
 
 # Compiling and executing the project
 
