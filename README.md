@@ -1,7 +1,7 @@
 # CarND-Path-Planning-Project-P1
 Udacity Self-Driving Car Nanodegree - Path Planning Project
 
-![Driving](img/last_shot.png)
+[![Driving](https://img.youtube.com/vi/z9YLxi0I_EI/0.jpg)](https://www.youtube.com/watch?v=z9YLxi0I_EI)
 
 # Overview
 
